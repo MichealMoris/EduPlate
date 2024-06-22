@@ -1,9 +1,9 @@
 import TeacherSlider from './TeachersSlider';
 import heroImg from './assets/hero_img.jpg';
 function App() {
-  const phoneNumber = "01155225015";
+  const phoneNumber = "1155225015";
   const message = "Hello Mr Mohamed Adel, This is a demo message...";
-  const whatsappUrl = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${encodeURIComponent(message)}`;
+  const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
   return (
     <div className="container-fluid">
       <div className="row align-items-center mt-4">
