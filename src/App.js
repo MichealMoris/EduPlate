@@ -2,7 +2,7 @@ import TeacherSlider from './TeachersSlider';
 import heroImg from './assets/hero_img.jpg';
 function App() {
   const phoneNumber = "1155225015";
-  const message = "مرحباً سيد محمد عادل، هذه رسالة تجريبية...";
+  const message = "مرحباً استاذ محمد عادل، هذه رسالة تجريبية...";
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
   return (
     <div className="container-fluid">
@@ -15,7 +15,7 @@ function App() {
           <p className='lead'>التعلم لا ينبغي أن يكون عائقا. اعثر على معلمك المثالي اليوم.</p>
           <a href={whatsappUrl} target="_blank" rel="noopener noreferrer" className='btn btn-warning p-2 action-btn'>
             <i class="bi bi-whatsapp me-1 ms-1"></i>
-            الدردشة واتساب
+            تواصل معنا عبر واتساب
           </a>
         </div>
         <div className="col-md-6 d-md-inline d-none">
