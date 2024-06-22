@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/EduPlate/static/css/main.d26d34ae.css",
+    "main.js": "/EduPlate/static/js/main.a78804d7.js",
+    "static/media/hero_img.jpg": "/EduPlate/static/media/hero_img.e81db682c0f43f7aed78.jpg",
+    "static/media/Poppins.ttf": "/EduPlate/static/media/Poppins.35d26b781dc5fda684cc.ttf",
+    "static/media/slick.svg": "/EduPlate/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/EduPlate/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/EduPlate/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/EduPlate/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/EduPlate/index.html",
+    "main.d26d34ae.css.map": "/EduPlate/static/css/main.d26d34ae.css.map",
+    "main.a78804d7.js.map": "/EduPlate/static/js/main.a78804d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d26d34ae.css",
+    "static/js/main.a78804d7.js"
+  ]
+}
