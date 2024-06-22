@@ -8,7 +8,7 @@ function App() {
     <div className="container-fluid">
       <div className="row align-items-center mt-4">
         <div className="d-xxl-none d-xl-none d-lg-none d-md-none col-sm-12 d-sm-inline">
-          <img src={heroImg} className='img-fluid' />
+          <img src={heroImg} className='img-fluid' alt='' />
         </div>
         <div className="col-md-6 col-sm-12">
           <h1 className="fw-bolder"><span style={{ color: "#31A8D8" }}>تعبت من النضال؟</span><br />تعرف على معلمين رائعين يجعلون التعلم ممتعًا وفعالاً!</h1>
@@ -19,7 +19,7 @@ function App() {
           </a>
         </div>
         <div className="col-md-6 d-md-inline d-none">
-          <img src={heroImg} className='img-fluid' />
+          <img src={heroImg} className='img-fluid' alt='' />
         </div>
       </div>
       <div className='row mt-4'>

@@ -2,7 +2,7 @@
 import React from 'react';
 
 export const NextArrow = (props) => {
-    const { className, style, onClick } = props;
+    const { onClick } = props;
     return (
         <div onClick={onClick}>
             <i class="bi bi-arrow-right"></i>
@@ -11,7 +11,7 @@ export const NextArrow = (props) => {
 };
 
 export const PrevArrow = (props) => {
-    const { className, style, onClick } = props;
+    const { onClick } = props;
     return (
         <div onClick={onClick}>
             <i class="bi bi-arrow-left"></i>
