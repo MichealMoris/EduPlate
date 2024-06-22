@@ -2,7 +2,7 @@ import TeacherSlider from './TeachersSlider';
 import heroImg from './assets/hero_img.jpg';
 function App() {
   const phoneNumber = "1155225015";
-  const message = "Hello Mr Mohamed Adel, This is a demo message...";
+  const message = "مرحباً سيد محمد عادل، هذه رسالة تجريبية...";
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
   return (
     <div className="container-fluid">
